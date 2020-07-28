@@ -1,3 +1,4 @@
+#pylint: disable=too-many-arguments
 """
 This module allows you to derive master and child private and public keys
 from a mnemonic according to the BIP32 spec
